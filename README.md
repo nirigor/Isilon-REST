@@ -1,1 +1,1 @@
-# Isilon-REST
+# PowerScale-REST
